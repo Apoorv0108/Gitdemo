@@ -24,4 +24,11 @@ public class RestApiTest {
 	{
 		System.out.println("twitterdelete");
 	}
+	
+	public void twitterdeleteBRANCH()
+	{
+		System.out.println("twitterdeleteBRANCH");
+	}
+	
+	
 }
