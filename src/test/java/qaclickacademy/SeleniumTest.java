@@ -9,6 +9,8 @@ public class SeleniumTest {
 public void browseautomation()
 {
 	System.out.println("browseautomation");
+	System.out.println("browseautomation1");
+	System.out.println("browseautomation2");
 }
 
 @Test
